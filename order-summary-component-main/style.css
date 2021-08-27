@@ -1,0 +1,21 @@
+body {
+    
+    
+    display:block;
+    position:absolute;
+    background:url('../images/pattern-background-desktop.svg');
+    background-repeat:no-repeat;
+    background-size: 100% 100%;
+
+}
+
+#main-box {
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    top: 50%;
+}
+
+#box-one {
+    background-image: url ("https://mdn.mozillademos.org/files/6457/mdn_logo_only_color.png");
+}
